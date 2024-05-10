@@ -1,3 +1,3 @@
 module.exports = {
-  ignores: ['.husky', 'coverage', 'dist', 'docs'],
+  ignores: ['.husky', 'coverage', 'dist'],
 };
